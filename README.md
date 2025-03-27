@@ -1,3 +1,8 @@
+
+<img src="https://github.com/user-attachments/assets/8be6bc47-b740-4b64-9d69-e5f13e0512b7" width="100%" height="450" alt="Description">
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhairya_jangid_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-jangid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhavya_jangid_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGiQ4r7i-Ga2e1IZKlFt3xg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairyajangid99@gmail.com) 
 
